@@ -1,0 +1,7 @@
+{
+  "name": "storage-management",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
