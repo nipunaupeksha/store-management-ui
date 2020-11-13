@@ -1,8 +1,8 @@
 {
   "name": "storage-management",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Nipuna Upeksha",
+  "homepage": "https://nipunaupeksha.github.io",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
